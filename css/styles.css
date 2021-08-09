@@ -705,6 +705,21 @@ column-count: 4;
 .menu a:hover{
    color: #F0AFA9;
 }
+.menu-3 {
+    display: inline-block;
+    padding: 4rem;
+}
+.menu-3 ul{
+column-count: 4;
+  column-rule: dotted 1px #333;
+  list-style-type: none;
+}
+.menu-3 ul li a{
+ color:#129EA1;
+}
+.menu-3 a:hover{
+   color: #F0AFA9;
+}
 
 /*Main Portfolio Page*/
 .projects{
